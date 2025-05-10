@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an *Electrical and Electronics Engineering* st
 - **Automatic Hand Sanitizer Dispenser (IoT)**: Built an IoT-based touch-free sanitizer dispenser for public spaces using sensors and microcontrollers.
 - **To-Do List Web App**: Created a task management web application using PHP and MySQL to organize daily activities.
 - **Symposium Webpage**: Designed and developed a responsive symposium event webpage using HTML, CSS, and JavaScript to showcase event details and enable user interaction.
-- - **Smart Energy Management System**: Developed a Smart Energy Management System using the MERN stack (MongoDB, Express.js, React.js, Node.js) to monitor, analyze, and optimize energy consumption with real-time data visualization and user authentication
+- **Smart Energy Management System**: Developed a Smart Energy Management System using the MERN stack (MongoDB, Express.js, React.js, Node.js) to monitor, analyze, and optimize energy consumption with real-time data visualization and user authentication
 
 ---
 
