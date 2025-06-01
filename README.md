@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm an *Electrical and Electronics Engineering* st
 
 ### 🛠 Skills & Technologies
 
-- **Web Development**: HTML, CSS, JavaScript, PHP, MySQL  
+- **Web Development**: HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express, MERN stack (Learning)  
 - **Embedded Systems & IoT**: Arduino, ESP32, Raspberry Pi, Blynk  
 - **API Testing & Development**: Postman, REST APIs, JSON  
 - **PCB Design & Prototyping**  
 - **Languages**: C, C++, Java, Python  
-- **Databases**: MySQL, MongoDB  
+- **Databases**: MongoDB  
 - **Energy Systems**: Solar Power, EV Charging Stations, Super Boost Converters  
 - **Other Tools**: Git, Tinkercad  
 
